@@ -1,0 +1,143 @@
+.dl {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+	font-family: sans-serif;
+}
+
+.block {
+	display: block;
+	background: #0077B6;
+	padding: 15px;
+	cursor: pointer;
+	text-decoration: none;
+	width: 250px;
+	text-align: center;
+	border-radius: 100px;
+	font-size: 20px;
+	transition: 0.3s ease-in-out;
+	position: absolute;
+	top: 800px;
+	left: 500px;
+	border: none;
+	color: #fff;
+	margin-left: 50px;
+}
+.block:hover {
+	background: white;
+}
+
+.welcome {
+	text-align: center;
+	top: 0px;
+	font-size: 50px;
+	font-family: 'Courier New';
+	color: #90E0EF;
+	padding: 10px;
+	margin: 8px;
+}
+
+.btn {
+	font-family: 'Courier New';
+	font-size: 30px;
+	color: black;
+}
+
+.blockk {
+	display: block;
+	background: #0077B6;
+	padding: 15px;
+	cursor: pointer;
+	text-decoration: none;
+	width: 250px;
+	text-align: center;
+	border-radius: 100px;
+	font-size: 20px;
+	transition: 0.3s ease-in-out;
+	position: absolute;
+	top: 1000px;
+	left: 500px;
+	border: none;
+	color: #fff;
+	margin-left: 50px;
+}
+.blockk:hover {
+	background: white;
+}
+
+.btnn {
+	font-family: 'Courier New';
+	font-size: 30px;
+	color: black;
+}
+
+.meth {
+	display: block;
+	background: #0077B6;
+	padding: 15px;
+	cursor: pointer;
+	text-decoration: none;
+	width: 250px;
+	text-align: center;
+	border-radius: 100px;
+	font-size: 20px;
+	transition: 0.3s ease-in-out;
+	position: absolute;
+	top: 1200px;
+	left: 500px;
+	border: none;
+	color: #fff;
+	margin-left: 50px;
+}
+.meth:hover {
+	background: white;
+}
+
+.methbuttn {
+	font-family: 'Courier New';
+	font-size: 30px;
+	color: black;
+}
+
+.lorem {
+	position: absolute;
+	top: 200px;
+	left: 900px;
+	color: #90E0EF;
+	font-family: 'Courier New';
+	letter-spacing: 3px;
+	background: linear-gradient(to top, rgba(0,0,0,0.8)50%, rgba(0,0,0,0.8)50%);
+	border-radius: 10px;
+	padding: 25px;
+	width: 800px;
+}
+
+.hospital {
+	display: block;
+	background: #0077B6;
+	padding: 15px;
+	cursor: pointer;
+	text-decoration: none;
+	width: 250px;
+	text-align: center;
+	border-radius: 100px;
+	font-size: 20px;
+	transition: 0.3s ease-in-out;
+	position: absolute;
+	top: 800px;
+	left: 1000px;
+	border: none;
+	color: #fff;
+	margin-left: 50px;
+}
+.hospital:hover {
+	background: white;
+}
+
+.hospitalbuttn {
+	font-family: 'Courier New';
+	font-size: 30px;
+	color: black;
+}
